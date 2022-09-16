@@ -15,14 +15,16 @@
 <br>
 <br>
 <font size="14" face="arial">
+  <h2>
  <b> Tecnologias utilizadas: <b/>
   </font>
+    </h2>
 <br>
-:milky_way:<i>Html<i/>
+:milky_way:<i>HTML<i/>
   <br>
-:milky_way:<i>Css<i/>
+:milky_way:<i>CSS<i/>
   <br>
-:milky_way:<i>Javascript<i/>
+:milky_way:<i>JAVASCRIPT<i/>
 <br>
 <br>
 
