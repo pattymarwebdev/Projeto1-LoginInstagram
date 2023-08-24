@@ -24,8 +24,7 @@
   <br>
 :milky_way:<i>CSS<i/>
   <br>
-:milky_way:<i>JAVASCRIPT<i/>
-<br>
+
 <br>
 
 <img src="https://github.com/pattyuryah/Projeto1-LoginInstagram/blob/master/projetinst.PNG?raw=true"/>
